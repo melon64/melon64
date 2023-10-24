@@ -2,9 +2,8 @@
 
 <h3>&nbsp;About Me </h3>
 
-- 🎓 &nbsp; Highschool student in Ontario.
-- 🌱 &nbsp; Learning more about Web Architecture and Artificial Intelligence.
-- ✍️ &nbsp; Try out new technologies by joining hackathons.
+- 🎓 &nbsp; CS/Finance student at the University of Waterloo.
+- 🌱 &nbsp; Interested in Network Architecture and Artificial Intelligence.
 
 <h3>&nbsp;Tech Stack</h3>
 

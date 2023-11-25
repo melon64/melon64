@@ -27,13 +27,12 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-333333?style=flate&logo=google-cloud&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman&logoColor=white)
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=white)
   
 
 <br/>
 
 <a href="https://github.com/melon64">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melon64&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melon64&theme=buefy&layout=compact&hide=jupyter%20notebook" />
 </a>
 
 <br/>
@@ -42,5 +41,5 @@
 
 <p>
 <a href="https://devpost.com/melon64"><img alt="Devpost" src="https://img.shields.io/badge/www.devpost.com-blue?style=flat-square&logo=dev.to"></a>
+<a href="https://www.linkedin.com/in/~fx/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-Hackathon Projects

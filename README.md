@@ -32,7 +32,7 @@
 <br/>
 
 <a href="https://github.com/melon64">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melon64&theme=buefy&layout=compact&hide=jupyter%20notebook" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melon64&theme=buefy&layout=compact&hide=jupyter%20notebook,html,css" />
 </a>
 
 <br/>

@@ -1,8 +1,8 @@
 <h1> Hi, I'm Felix!</h1>
 
 ## About Me:
-- 🎓 &nbsp; I am a CS/Finance student at the University of Waterloo.
-- 🌱 &nbsp; I'm interested in Embedded Development and System Design.
+- 🎓 &nbsp; I am a CS+Finance double major student at the University of Waterloo.
+- 🌱 &nbsp; I'm interested in Infrastructure Security and Systems.
 
 
 ## Socials:

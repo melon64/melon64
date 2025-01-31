@@ -1,8 +1,8 @@
 <h1>👋🏻 Hi, I'm Felix!</h1>
 <p> I am a Computer Science and Finance double major student at the University of Waterloo. As my degree suggests, I'm interested in software, finance, and all things in between! </p>
 <ul>
-  <li>Currently @ Shopify as a Backend SWE intern on the Privacy team </li>
-  <li>Prev @ RBC as a SWE intern (Infrastructure Security) and @ Sparklease as a Full Stack Developer intern</li>
+  <li>Currently @ school and seeking Winter 2026 internships </li>
+  <li>Prev @ Shopify as a Backend SWE intern (Privacy), @ RBC as a SWE intern (Infrastructure Security) and @ Sparklease as a Full Stack Developer intern</li>
 </ul>
 
 <h2>Currently I am learning... </h2>

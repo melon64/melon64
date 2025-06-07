@@ -1,14 +1,18 @@
 <h1>👋🏻 Hi, I'm Felix!</h1>
-<p> I am a Computer Science and Finance double major student at the University of Waterloo. As my degree suggests, I'm interested in software, finance, and all things in between! </p>
+<p> I am a Computer Science and Finance double major student at the University of Waterloo. I'm interested in software, finance, and all things in between! </p>
 <ul>
-  <li>Currently @ school and seeking Winter 2026 internships </li>
+  <li>Currently @ Meta as a Production Engineer Intern (Monetization)</li>
+  <ul>
+    <li>Building efficient and reliable ad signals pipelines in C++ and Python</li>
+  </ul>
   <li>Prev @ Shopify as a Backend SWE intern (Privacy), @ RBC as a SWE intern (Infrastructure Security), and @ Sparklease as a Full Stack Developer intern</li>
 </ul>
 
 <h2>Currently I am learning... </h2>
 <ul>
-  <li>Designing low-latency distributed systems</li>
-  <li>Building technologies I use from scratch, preferably in C++ </li>
+  <li>How to design distributed systems</li>
+  <li>How to build the technologies I use from scratch</li>
+  <li>All the semantics of modern C++</li>
 </ul>
 
 <h2>Socials</h2>
